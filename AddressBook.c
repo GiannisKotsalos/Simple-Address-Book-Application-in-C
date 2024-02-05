@@ -67,7 +67,6 @@ void saveAddressBook() {
     printf("Entry saved successfully\n");
 }
 
-// Other functions remain unchanged
 
 int main() {
     int choice, j;
